@@ -55,7 +55,7 @@ Tier 3 outlets perform the strongest, especially in low-fat items.
 
 ### 4. Total Sales by Outlet Establishment Year
 Shows how the age of an outlet correlates with revenue.
-Outlets established in **1998** and **2017** show comparatively higher performance..
+Outlets established in **1998** and **2017** show comparatively higher performance.
 
 ### 5. Sales by Outlet Size
 Medium-sized outlets lead with $507.9K, followed by small and high-capacity stores.
@@ -71,7 +71,7 @@ Supermarket Type1 contributes the majority: $787.5K in sales.
 To make the dashboard user-friendly, slicers were included for:
 - Outlet Size  
 - Outlet Location  
-- Item Type  
+- Item Type
 These allow stakeholders to filter and analyze specific segments instantly.
  
 ## Dashboard Preview
